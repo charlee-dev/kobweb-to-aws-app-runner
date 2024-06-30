@@ -6,7 +6,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = "kobwebtoawsapprunner"
+rootProject.name = "kobweb-to-aws-app-runner"
 
 include(":site")
 
